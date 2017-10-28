@@ -1,0 +1,46 @@
+.container{
+    width:290px;
+    background:#3F475B;
+    margin:0 auto;
+    height:260px;
+}
+.output{
+    width:80%;
+    background:#828A9B;
+    display:inline-block;
+    height:50px;
+    float:left;
+}
+.c{
+    width:20%;
+    background:#7B8D8E;
+    display:inline-block;
+    height:50px;
+    text-align: center;
+
+}
+.c-text{
+    font-size:25px;
+    color:#FFF;
+    line-height:50px;
+    display:inline-block;
+}
+.button{
+    height:40px;
+    display:inline-block;
+    float:left;
+    margin-top:10px;
+}
+.button-inner{
+    background:#FFF;
+    height:100%;
+    width:66.25px;
+    margin:0 auto;
+    display:inline-block;
+    float:left;
+    text-align: center;
+    line-height: 40px;
+}
+.button-inner:first-child{
+    margin-left:5px;
+}
